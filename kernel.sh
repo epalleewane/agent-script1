@@ -10,6 +10,12 @@ lsblk
 uname -r
 free -m 
 iostart
+
+cat /proc/meninfo
+cat /proc/cpuinfo
+lsb_release -a 
+
+
 cat/etc/os release 
 sar -u 
 nproc
