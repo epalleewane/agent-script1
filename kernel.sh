@@ -7,4 +7,8 @@ exit 1
 fi 
 lscpu 
 lsblk
-uname -r 
+uname -r
+
+free -m 
+iostart
+
