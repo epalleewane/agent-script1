@@ -12,4 +12,4 @@ free -m
 iostart
 cat/etc/os release 
 sar -u 
-nproc 
+nproc
