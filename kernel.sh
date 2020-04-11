@@ -8,7 +8,8 @@ fi
 lscpu 
 lsblk
 uname -r
-
 free -m 
 iostart
-
+cat/etc/os release 
+sar -u 
+nproc 
